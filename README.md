@@ -14,7 +14,7 @@ go run main.go
 CatBSD:~ hang$ go version
 go version go1.17.5 darwin/amd64
 ```
-- V0.1
+- V0.2
 ![v0.2 运行时图](./IMG/v.0.2.png)
 
 - V0.1
