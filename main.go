@@ -18,5 +18,8 @@ func main() {
 	//将疫情数据呈现表格
 	controller.TableView()
 
+	// 最近的新闻
+	controller.NewView()
+
 	// fmt.Println(controller.MathingCity())
 }
