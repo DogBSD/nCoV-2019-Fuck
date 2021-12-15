@@ -32,4 +32,4 @@ go version go1.17.5 darwin/amd64
 
 希望大家身体健康，岁岁平安。再次，Fuck nCoV-2019
 
-![MacBook Air 2014](./IMG/MacBook%20Air%202014.JPG)
+![MacBook Air 2014](./IMG/MacBook Air 2014.JPG)
